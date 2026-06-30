@@ -25,11 +25,11 @@ export default function Home() {
             </code>
             .
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Save and see your changes instantly. Test it out</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
-        <button onClick={handleLogin}>Login</button>
+          <button onClick={handleLogin}>Login</button>
         </div>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
